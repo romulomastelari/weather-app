@@ -1,27 +1,93 @@
-# WeatherApp
+<h1 align="center">App Previsão do tempo - Angular</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+<p align="center">
+<img alt="" src="https://img.shields.io/github/last-commit/romulomastelari/galeraJavaScript?color=4da1cd" />
+<img alt="" src="https://img.shields.io/github/repo-size/romulomastelari/galeraJavaScript?color=4da1cd" />
+<img alt="" src="https://img.shields.io/github/languages/count/romulomastelari/galeraJavaScript?color=4da1cd" />
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033"/>
+</p>
 
-## Development server
+<h3 align="center">Imagem prévia da aplicação</h3>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<div align="center">
+<img src="https://a.imagem.app/o3Vv38.png" alt="">  
+</div>
 
-## Code scaffolding
+<br/>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 💻 Projeto
 
-## Build
+Descrição do projeto:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Intro da aplicação
+- Origem da aplicação?
+- Por que fez e sua utilidade?
 
-## Running unit tests
+Essa aplicação foi desenvolvida para estudos seguindo os ensinamentos da **[origamid](https://www.origamid.com/)** no curso Javascript completo **[Javascript](https://www.origamid.com/curso/javascript-completo-es6)** .
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Nele aborda a criação de um projeto de uma galeria de fotos em <strong>JavaScript</strong> e estilização em <strong>CSS</strong>
 
-## Running end-to-end tests
+Contendo anotações e comentários particulares servindo de consulta para novos projetos.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🧪 Tecnologias
 
-## Further help
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [Angular](https://angular.io/docs)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [SCSS](https://sass-lang.com/documentation/)
+
+## 🚀 Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```
+$ git clone <https://github.com/romulomastelari/galeraJavaScript.git>
+
+$ cd nome-do-repo
+```
+
+Para iniciá-lo, siga os passos abaixo:
+
+```
+# Instalar as dependências
+$ npm install
+
+# Iniciar o projeto
+$ npm start
+```
+
+<br />
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.notion.so/LICENSE.md) para mais detalhes.
+
+<br />
+
+## 📓 Anotações pessoais
+
+```
+biblioteca de icones utlizada - https://www.npmjs.com/package/@fortawesome/angular-fontawesome
+OpenWeatherMapAPI - Api para a realizarção das requisições (https://openweathermap.org/)
+@Input - recebendo dados do component pai
+Smart e Dumb components - components inteligentes que recebem e tratam os dados e dumb component que só recebem so dados
+ngIfs - estrutura de condições dentro do html
+services - buscando dados de uma api externa
+Component Smart e Dumba - Smart o que recebe e trata os daods, Dumb o component que somente recebe
+```
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+<a href="https://github.com/romulomastelari">
+<img src="https://github.com/romulomastelari.png" width="100px;" alt="" style="border-radius:50% box-shadow: 0 2px 2px rgba(0,0,0, .5);" />
+<br />
+<sub><b>Romulo Mastelari</b></sub></a>
+
+📌 Só boraaaa! Sempre para frente :) 🚀🚀🚀
+</div>
